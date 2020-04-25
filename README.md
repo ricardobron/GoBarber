@@ -108,8 +108,3 @@ Foi utilizado o docker para a criação do banco de dados.
 6. ``react-native run-android``
 
 PS: Não inclui os commits devido à estrutura dos repos não devidamente antecipada. :grin:
-
-Modulo 02, bootcamp GoStack. Backend Projeto GoBarber
-
-
-FastFeet -> Aplicação de uma transportadora fictícia
