@@ -60,7 +60,7 @@ Foi utilizado o docker para a criação do banco de dados.
 
     docker run --name gobarber -e POSTGRES_PASSWORD=gobarber -p 5432:5432 -d postgres
 
-    docker start fastfeet
+    docker start gobarber
 
   Criar e startar a base de dados **REDIS**:
 
