@@ -74,6 +74,7 @@ Foi utilizado o docker para a criação do banco de dados.
 - 🔁 **Redux** - Biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo.
 - 🔂 **Redux Saga** - Biblioteca Javascript que torna os efeitos colaterais do aplicativo mais faceis de gerenciar.
 - 📛 **Sentry** - Plataforma para monitoramento de erros e notificação em tempo real.
+- No backend foi integrado alguns pacotes de segurança para evitar quebras na API durante a produção (rate limit, express-brute...)
 - (Entre outros pacotes...)
 
 
