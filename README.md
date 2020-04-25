@@ -58,15 +58,15 @@ Foi utilizado o docker para a criação do banco de dados.
 
   Criar e startar a base de dados **POSTGRES**:
 
-    docker run --name fastfeet -e POSTGRES_PASSWORD=fastfeet -p 5432:5432 -d postgres
+    docker run --name gobarber -e POSTGRES_PASSWORD=gobarber -p 5432:5432 -d postgres
 
     docker start fastfeet
 
   Criar e startar a base de dados **REDIS**:
 
-    docker run --name redisfastfeet -p 6379:6379 -d -t redis:alpine
+    docker run --name redisgobarber -p 6379:6379 -d -t redis:alpine
 
-    docker start redisfastfeet
+    docker start redisgobarber
 
 - ⚛️ **ReactJs** - Biblioteca Javascript para criar interfaces de usuário.
 - ⚛️ **React Native** - Framework para criar apps nativos usando React.
