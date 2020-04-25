@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="FastFeet" title="FastFeet" src="./server/.github/logo.png" width="300px">
-</h1>
-
 <p align="center">
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361" />
@@ -112,3 +108,8 @@ Foi utilizado o docker para a criação do banco de dados.
 6. ``react-native run-android``
 
 PS: Não inclui os commits devido à estrutura dos repos não devidamente antecipada. :grin:
+
+Modulo 02, bootcamp GoStack. Backend Projeto GoBarber
+
+
+FastFeet -> Aplicação de uma transportadora fictícia
